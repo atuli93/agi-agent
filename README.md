@@ -58,7 +58,7 @@ source .venv/bin/activate
 ## Windows (CMD / PowerShell)
 
 ```bash
-.venv\Scripts\activate```
+.venv\Scripts\activate
 ```
 
 ---
@@ -66,7 +66,7 @@ source .venv/bin/activate
 ### 3️⃣ Install dependencies
 
 ```bash
-pip install -r requirements.txt```
+pip install -r requirements.txt
 ```
 
 ---
