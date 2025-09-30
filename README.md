@@ -40,7 +40,8 @@ cd agi-agent```
 
 ### 2️⃣ Create a virtual environment (recommended)
 
-```python3 -m venv .venv```
+```bash
+python3 -m venv .venv```
 
 ---
 
@@ -48,17 +49,20 @@ cd agi-agent```
 
 ## Linux / WSL / macOS
 
-```source .venv/bin/activate```
+```bash
+source .venv/bin/activate```
 
 ## Windows (CMD / PowerShell)
 
-```.venv\Scripts\activate```
+```bash
+.venv\Scripts\activate```
 
 ---
 
 ### 3️⃣ Install dependencies
 
-```pip install -r requirements.txt```
+```bash
+pip install -r requirements.txt```
 
 ---
 
