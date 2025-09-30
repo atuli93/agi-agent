@@ -100,18 +100,6 @@ python app.py
 
 ---
 
-# Drop It in Sentient Discord
-## Post in #💻│builder-junior:
-
-### 🚀 First Builder drop:
-Modular AGI agent using Flask + OpenAI.
-
-GitHub: [https://github.com/atuli93/agi-agent](https://github.com/atuli93/agi-agent)
-
-Built for remixability—feedback welcome!
-
----
-
 ### ⚙️ Development Notes
 
 Do not commit .venv/ or API keys
