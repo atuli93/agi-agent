@@ -26,7 +26,6 @@ agi-agent/
 ├─ .venv/ # Virtual environment (ignored by git)
 └─ README.md
 
-
 ---
 
 ## 🛠️ Setup
@@ -35,13 +34,13 @@ agi-agent/
 
 ```bash
 git clone https://github.com/atulchief/agi-agent.git
-cd agi-agent
+cd agi-agent```
 
 ---
 
 # 2️⃣ Create a virtual environment (recommended)
 
-```python3 -m venv .venv
+```python3 -m venv .venv```
 
 ---
 
