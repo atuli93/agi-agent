@@ -38,7 +38,7 @@ cd agi-agent```
 
 ---
 
-# 2️⃣ Create a virtual environment (recommended)
+### 2️⃣ Create a virtual environment (recommended)
 
 ```python3 -m venv .venv```
 
@@ -56,13 +56,13 @@ cd agi-agent```
 
 ---
 
-# 3️⃣ Install dependencies
+### 3️⃣ Install dependencies
 
 ```pip install -r requirements.txt```
 
 ---
 
-# 4️⃣ Set up OpenAI API Key
+### 4️⃣ Set up OpenAI API Key
 
 ## Create a .env file (or set environment variable) with your OpenAI key:
 
@@ -70,7 +70,7 @@ cd agi-agent```
 
 ---
 
-# 5️⃣ Run the app
+### 5️⃣ Run the app
 
 ```python app.py```
 
@@ -78,7 +78,7 @@ cd agi-agent```
 
 ---
 
-# 📝 Usage
+### 📝 Usage
 
 **Enter a prompt in the web interface**
 **Click Submit**
@@ -90,7 +90,7 @@ cd agi-agent```
 # Drop It in Sentient Discord
 ## Post in #💻│builder-junior:
 
-# 🚀 First Builder drop:
+### 🚀 First Builder drop:
 Modular AGI agent using Flask + OpenAI.
 GitHub: https://github.com/atulchief/agi-agent
 
@@ -98,7 +98,7 @@ Built for remixability—feedback welcome!
 
 ---
 
-# ⚙️ Development Notes
+### ⚙️ Development Notes
 
 Do not commit .venv/ or API keys
 Flask auto-reloads during development
@@ -107,14 +107,14 @@ Keep dependencies updated in requirements.txt
 
 ---
 
-# 📜 License
+### 📜 License
 
 This project is licensed under the MIT License. See LICENSE
  for details.
 
 ---
 
-# 💡 Tips
+### 💡 Tips
 
 **Test your API key before pushing to production**
 **Use .gitignore to exclude sensitive files:**
