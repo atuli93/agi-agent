@@ -96,7 +96,7 @@ python app.py
 **Enter a prompt in the web interface**
 **Click Submit**
 **Receive AI-generated responses in real-time**
-**Customize responses or add new modules by editing app.py**
+**Customize responses or add new modules by editing ```app.py```
 
 ---
 
