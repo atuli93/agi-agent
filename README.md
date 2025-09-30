@@ -1,2 +1,2 @@
-# agi-agent
+# Agi-agent
 An AI-powered agent built with Flask and OpenAI API.
