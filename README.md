@@ -15,6 +15,7 @@ A modular AGI (Artificial General Intelligence) agent built with **Flask** that 
 
 ## 📦 Project Structure
 
+```bash
 agi-agent/
 │
 ├─ app.py # Main Flask application
@@ -25,6 +26,7 @@ agi-agent/
 │ └─ style.css
 ├─ .venv/ # Virtual environment (ignored by git)
 └─ README.md
+```
 
 ---
 
