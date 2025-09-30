@@ -34,14 +34,14 @@ agi-agent/
 
 ```bash
 git clone https://github.com/atulchief/agi-agent.git
-cd agi-agent```
+cd agi-agent
 
 ---
 
 ### 2️⃣ Create a virtual environment (recommended)
 
 ```bash
-python3 -m venv .venv```
+python3 -m venv .venv
 
 ---
 
@@ -50,7 +50,7 @@ python3 -m venv .venv```
 ## Linux / WSL / macOS
 
 ```bash
-source .venv/bin/activate```
+source .venv/bin/activate
 
 ## Windows (CMD / PowerShell)
 
