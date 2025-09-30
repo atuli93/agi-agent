@@ -35,6 +35,7 @@ agi-agent/
 ```bash
 git clone https://github.com/atulchief/agi-agent.git
 cd agi-agent
+```
 
 ---
 
@@ -42,6 +43,7 @@ cd agi-agent
 
 ```bash
 python3 -m venv .venv
+```
 
 ---
 
@@ -51,11 +53,13 @@ python3 -m venv .venv
 
 ```bash
 source .venv/bin/activate
+```
 
 ## Windows (CMD / PowerShell)
 
 ```bash
 .venv\Scripts\activate```
+```
 
 ---
 
@@ -63,6 +67,7 @@ source .venv/bin/activate
 
 ```bash
 pip install -r requirements.txt```
+```
 
 ---
 
@@ -76,7 +81,9 @@ pip install -r requirements.txt```
 
 ### 5️⃣ Run the app
 
-```python app.py```
+```bash
+python app.py
+```
 
 **Open your browser at: http://127.0.0.1:5000**
 
@@ -123,8 +130,11 @@ This project is licensed under the MIT License. See LICENSE
 **Test your API key before pushing to production**
 **Use .gitignore to exclude sensitive files:**
 
-```.venv/
+```bash
+.venv/
 __pycache__/
 *.pyc
-.env```
+.env
+```
+
 **Keep your project modular for easy extensions and experimentation**
