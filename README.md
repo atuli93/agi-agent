@@ -4,7 +4,7 @@ A modular AGI (Artificial General Intelligence) agent built with **Flask** that 
 
 ---
 
-## 🚀 Features
+## Features
 
 - Web interface using Flask
 - AI-powered responses via OpenAI API
@@ -13,7 +13,7 @@ A modular AGI (Artificial General Intelligence) agent built with **Flask** that 
 
 ---
 
-## 📦 Project Structure
+## Project Structure
 
 ```bash
 agi-agent/
@@ -30,7 +30,7 @@ agi-agent/
 
 ---
 
-## 🛠️ Setup
+## Setup
 
 ### 1️⃣ Clone the repository
 
@@ -91,7 +91,7 @@ python app.py
 
 ---
 
-### 📝 Usage
+### Usage
 
 **Enter a prompt in the web interface**
 **Click Submit**
@@ -100,7 +100,7 @@ python app.py
 
 ---
 
-### ⚙️ Development Notes
+### Development Notes
 
 Do not commit .venv/ or API keys
 Flask auto-reloads during development
@@ -109,14 +109,13 @@ Keep dependencies updated in requirements.txt
 
 ---
 
-### 📜 License
+### License
 
-This project is licensed under the MIT License. See LICENSE
- for details.
+This project is licensed under the MIT License. 
 
 ---
 
-### 💡 Tips
+### Tips
 
 **Test your API key before pushing to production**
 **Use .gitignore to exclude sensitive files:**
